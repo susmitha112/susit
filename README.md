@@ -28,8 +28,8 @@ ___
 [apssdc](http://apssdc.in) 
 
 [sacet](http://sacet.ac.in)
-: blash :
-:simply:
+:blush:
+:smiley:
 sno | sname
 ----|------
 1 | susmitha
