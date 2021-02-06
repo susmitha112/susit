@@ -41,3 +41,9 @@ what is use of git hub
 - [ ] to delete data
 - [ ] easy access data
 - [ ] none
+
+---python
+def add(a,b):
+   print("the addition two number is")
+add(3,4)   
+   
