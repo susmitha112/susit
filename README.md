@@ -28,7 +28,7 @@ ___
 [apssdc](http://apssdc.in) 
 
 [sacet](http://sacet.ac.in)
-:blash:
+: blash :
 :simply:
 sno | sname
 ----|------
